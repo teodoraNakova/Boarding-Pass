@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Boarding Pass</string>
     <string name="app_name">BoardingPass</string>
     <string name="passenger_label">PASSENGER</string>
     <string name="passenger_name">MR. JAMES BOND</string>
